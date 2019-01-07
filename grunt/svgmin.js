@@ -13,7 +13,7 @@ module.exports = {
             {
                 expand: true, 
                 cwd: 'src/assets/', 
-                src: ['usb_page/*.svg', 'svg/**/*.svg'],                           
+                src: ['awards/*.svg', 'svg/**/*.svg'],                           
                 dest: 'dist/assets/' 
             },
         ]
