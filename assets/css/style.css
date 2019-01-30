@@ -778,6 +778,13 @@ table {
   width: 140px;
   height: 150px; }
 
+.footer-featured-image {
+  max-width: 500px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto; }
+
 /* stylelint-enable color-no-hex */
 @media screen and (max-width: 1024px) {
   .lg-center {
